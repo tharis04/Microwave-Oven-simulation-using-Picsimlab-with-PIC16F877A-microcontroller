@@ -67,6 +67,4 @@ It simulates the functionality of a **Microwave Oven** using **PICSimLab** with 
     <img width="1687" height="1137" alt="display time screen" src="https://github.com/user-attachments/assets/1c29fae4-38c8-41d0-8ae2-1a5085bb92b6" />
     
 ## Author
-THARIS. S
-B.E - ECE
-UCE-BIT campus, trichy.
+THARIS. S | B.E - ECE | UCE-BIT campus, trichy.
