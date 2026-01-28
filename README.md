@@ -29,7 +29,8 @@ It simulates the functionality of a **Microwave Oven** using **PICSimLab** with 
 - **Programming Language:** Embedded C  
 - **IDE:** MPLab IDE v5.35  
 - **Simulator:** PICSimLab  
-- **Microcontroller:** PIC16F877A  
+- **Microcontroller:** PIC16F877A
+- **Board used:** PICGenios
 
 ---
 
